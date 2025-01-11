@@ -1,0 +1,61 @@
+LIST CATOGORIES ['Accounting & Consulting ', 'Admin Support ', 'Customer Service ', 'Data Science & Analytics ', 'Design & Creative ', 'Engineering & Architecture ', 'IT & Networking ', 'Legal ', 'Sales & Marketing ', 'Translation ', 'Web, Mobile & Software Dev ', 'Writing ']
+11 ['Sales & Marketing Copywriting', 'Content Writing', 'Editing & Proofreading Services', 'Professional & Business Writing']
+10 ['Blockchain, NFT & Cryptocurrency', 'AI Apps & Integration', 'Desktop Application Development', 'Ecommerce Development', 'Game Design & Development', 'Mobile Development', 'Other - Software Development', 'Product Management & Scrum', 'QA Testing', 'Scripts & Utilities', 'Web & Mobile Design', 'Web Development']
+9 ['Language Tutoring & Interpretation', 'Translation & Localization Services']
+8 ['Digital Marketing', 'Lead Generation & Telemarketing', 'Marketing, PR & Brand Strategy']
+7 ['Corporate & Contract Law', 'International & Immigration Law', 'Finance & Tax Law', 'Public Law']
+6 ['Database Management & Administration', 'ERP/CRM Software', 'Information Security & Compliance', 'Network & System Administration', 'DevOps & Solution Architecture']
+5 ['Building & Landscape Architecture', 'Chemical Engineering', 'Civil & Structural Engineering', 'Contract Manufacturing', 'Electrical & Electronic Engineering', 'Interior & Trade Show Design', 'Energy & Mechanical Engineering', 'Physical Sciences', '3D Modeling & CAD']
+4 ['Art & Illustration', 'Audio & Music Production', 'Branding & Logo Design', 'NFT, AR/VR & Game Art', 'Graphic, Editorial & Presentation Design', 'Performing Arts', 'Photography', 'Product Design', 'Video & Animation']
+3 ['Data Analysis & Testing', 'Data Extraction/ETL', 'Data Mining & Management', 'AI & Machine Learning']
+2 ['Community Management & Tagging', 'Customer Service & Tech Support']
+1 ['Data Entry & Transcription Services', 'Virtual Assistance', 'Project Management', 'Market Research & Product Reviews']
+0 ['Personal & Professional Coaching', 'Accounting & Bookkeeping', 'Financial Planning', 'Recruiting & Human Resources', 'Management Consulting & Analysis', 'Other - Accounting & Consulting']
+
+
+{
+    "users": [
+        {
+            "id": 1,
+            "first_name": "john",
+            "last_name": "lennon",
+            "email": "lastpeople1029@mailslurp.biz",
+            "password": "@hupron12",
+            "country": "Indonesia",
+            "inboxId": "23a9d72e-6a1e-42d7-9b65-a455fab43c62",
+            "category": "writing",
+            "special_skill": "content writing",
+            "company": "gatech indo",
+            "university": "Victoria",
+            "bio": "Ramadhan Romdon is a dedicated content writer with over a year of experience at Gatech Indo. He specializes in creating engaging and informative content that resonates with readers. His passion for writing and attention to detail make him a valuable asset to any team.",
+            "hourly": "20",
+            "address": "kemuning, barat daya",
+            "city": "bandung",
+            "birthday": "2002-01-01",
+            "number": "085123789893"
+        }
+    ]
+}
+
+
+
+{
+            "id": 1,
+            "first_name": "suffi",
+            "last_name": "marya",
+            "email": "ahmadmaul2002@mailslurp.biz",
+            "password": "@Ahmed2200",
+            "country": "Indonesia",
+            "inboxId": "f8593a5b-5b24-4f98-9fc7-4bb3cc8a587f",
+            "category": "Writing",
+            "special_skill": "Content Writing",
+            "company": "Gatech Indo",
+            "university": "Victoria",
+            "bio": "Ahmad Maul is a dedicated content writer with over a year of experience at Gatech Indo. He specializes in creating engaging and informative content that resonates with readers. His passion for writing and attention to detail make him a valuable asset to any team.",
+            "hourly": "20",
+            "address": "Kemuning, Jawa Barat",
+            "city": "Bandung",
+            "birthday": "2002-01-01",
+            "number": "085123789893"
+        },
+

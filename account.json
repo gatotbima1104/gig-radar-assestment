@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "first_name": "Ikhwan",
+            "last_name": "Apes",
+            "email": "apes444twenty@mailslurp.biz",
+            "password": "Apes@sal123",
+            "country": "Indonesia",
+            "inboxId": "9d2cf7f1-2152-419e-9498-24bd648a6853",
+            "category": "Writing",
+            "special_skill": "Content Writing",
+            "company": "Gatech Indo",
+            "university": "Victoria",
+            "bio": "Faisal is a dedicated content writer with over a year of experience at Gatech Indo. He specializes in creating engaging and informative content that resonates with readers. His passion for writing and attention to detail make him a valuable asset to any team.",
+            "hourly": "20",
+            "address": "Kemuning, Jawa Barat",
+            "city": "Bandung",
+            "birthday": "2002-01-01",
+            "number": "085123789893"
+        }
+    ]
+}
